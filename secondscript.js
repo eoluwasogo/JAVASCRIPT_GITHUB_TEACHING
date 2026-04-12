@@ -118,3 +118,19 @@ if (testCase.steps > 3 && testCase.isUI ){
         console.log("Manual test recommendedn")
     }
 
+
+
+
+allAges = [12,45,23,56,12,34,12,15,16,12,17,16,23,22,15,64,12,15,16,17,18,19,20];
+
+let U18 = allAges.filter((elements)=>{
+    if (elements < 18){
+        return true;}
+        else{
+            return false;
+        }
+    })
+
+
+
+console.log(U18.length);

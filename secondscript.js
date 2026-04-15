@@ -134,3 +134,13 @@ let U18 = allAges.filter((elements)=>{
 
 
 console.log(U18.length);
+
+allAges = [12,45,23,56,12,34,12,15,16,12,17,16,23,22,15,64,12,15,16,17,18,19,20];
+let dub = 0;
+
+for (let i = 0; i < allAges.length; i++){
+    if (allAges[i] === allAges[1] between allAges[]-1  )
+    {
+        dub++;
+        console.log(allAges[i]);
+    }

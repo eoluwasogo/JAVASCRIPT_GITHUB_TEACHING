@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Login Test",
+    "description": "Check login flow",
+    "steps": [
+      "Open page",
+      "Enter email",
+      "Click login"
+    ],
+    "status": "Pending"
+  },
+  {
+    "id": 2,
+    "title": "Add to Cart",
+    "description": "Test cart functionality",
+    "steps": [
+      "Go to product",
+      "Click add to cart"
+    ],
+    "status": "Pending"
+  }
+]
